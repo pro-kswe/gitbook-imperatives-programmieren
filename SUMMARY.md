@@ -3,6 +3,9 @@
 ## Einführung
 
 * [Was ist Informatik?](README.md)
+  * [Eine Definition](https://app.gitbook.com/s/dkQwrrSnZgqIvSHNHroV/einfuehrung/was-ist-informatik#eine-definition)
+  * [Was machen Informatiker?](https://app.gitbook.com/s/dkQwrrSnZgqIvSHNHroV/einfuehrung/was-ist-informatik#was-machen-informatiker)
+  * [Wie wird man Informatiker?](https://app.gitbook.com/s/dkQwrrSnZgqIvSHNHroV/einfuehrung/was-ist-informatik#wie-wird-man-informatiker)
 
 ## Imperatives Programmieren
 
