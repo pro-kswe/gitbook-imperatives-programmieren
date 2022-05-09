@@ -1,5 +1,7 @@
 ---
 description: Kapitel 1
+cover: .gitbook/assets/purity_gitbook.png
+coverY: 0
 ---
 
 # Was ist Informatik?
