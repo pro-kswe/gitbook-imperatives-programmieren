@@ -1,6 +1,6 @@
 ---
-description: Das erste Kapitel
+description: Kapitel 1
 ---
 
-# Kapitel 1
+# Was ist Informatik?
 

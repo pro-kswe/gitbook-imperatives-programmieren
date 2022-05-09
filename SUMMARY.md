@@ -1,9 +1,12 @@
 # Table of contents
 
-* [Kapitel 1](README.md)
-* [Kapitel 2](kapitel-2/README.md)
-  * [Page 1](kapitel-2/page-1.md)
+## Einführung
 
-## Gruppe 1
+* [Was ist Informatik?](README.md)
 
-* [Kapitel 3](gruppe-1/kapitel-3.md)
+## Imperatives Programmieren
+
+* [Programmieren mit Python](imperatives-programmieren/programmieren-mit-python/README.md)
+  * [Mein erstes Programm](imperatives-programmieren/programmieren-mit-python/mein-erstes-programm.md)
+* [Zufall und Zufallszahlen](imperatives-programmieren/zufall-und-zufallszahlen.md)
+* [Syntax und Semantik](imperatives-programmieren/syntax-und-semantik.md)
