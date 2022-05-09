@@ -8,4 +8,6 @@ description: Kapitel 1
 
 Es gibt verschiedene Definitionen, die versuchen die Informatik zu erklären. Prof. Dr. Walter Gander und Prof. Dr. Juraj Hromkovič (Ausbildungszentrum und Beratungszentrum für Informatikunterricht) versuchen dies wie folgt:
 
-Die Informatik ist die Wissenschaft der systematischen, automatisierten Verarbeitung von Information, der Informationsspeicherung, Informationsverwaltung und Informationsübertragung.
+{% hint style="info" %}
+Die **Informatik** ist die Wissenschaft der systematischen, automatisierten Verarbeitung von Information, der Informationsspeicherung, Informationsverwaltung und Informationsübertragung.
+{% endhint %}

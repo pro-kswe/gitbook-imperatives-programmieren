@@ -1,6 +1,2 @@
----
-description: Kapitel 2
----
-
-# Programmieren mit Python
+# Kapitel 3
 
