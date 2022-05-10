@@ -25,3 +25,4 @@
   * [🐢 Hello World](aufgaben/aufgaben-2/hello-world.md)
   * [🐢 Dreieck](aufgaben/aufgaben-2/dreieck.md)
   * [🐢 Rhombus](aufgaben/aufgaben-2/rhombus.md)
+  * [✏ Unbekannte Figur 1](aufgaben/aufgaben-2/unbekannte-figur-1.md)
