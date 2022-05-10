@@ -22,3 +22,4 @@
 * [Aufgaben 2](aufgaben/aufgaben-2/README.md)
   * [🐢 Rechteck](aufgaben/aufgaben-2/rechteck.md)
   * [🐢 Pyramide](aufgaben/aufgaben-2/pyramide.md)
+  * [🐢 Hello World](aufgaben/aufgaben-2/hello-world.md)
