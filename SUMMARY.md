@@ -26,3 +26,4 @@
   * [🐢 Dreieck](aufgaben/aufgaben-2/dreieck.md)
   * [🐢 Rhombus](aufgaben/aufgaben-2/rhombus.md)
   * [✏ Unbekannte Figur 1](aufgaben/aufgaben-2/unbekannte-figur-1.md)
+  * [✏ Unbekannte Figur 2](aufgaben/aufgaben-2/unbekannte-figur-2.md)
