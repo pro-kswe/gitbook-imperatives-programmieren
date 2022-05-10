@@ -8,7 +8,6 @@ Ihr erstes Python-Programm wird die Turtle dazu anweisen, ein Quadrat zu zeichne
 
 1. Erstellen Sie eine neue Python-Datei `quadrat.py`.
 2. Tippen Sie in die neu erstellte Python-Datei das folgende Programm ab.
-3. Führen Sie das Programm aus und prüfen Sie, ob ein Quadrat gezeichnet wird.
 
 {% code title="quadrat.py" %}
 ```python
@@ -25,3 +24,5 @@ turtle.left(90)
 turtle.done()
 ```
 {% endcode %}
+
+3. Führen Sie das Programm aus und prüfen Sie, ob ein Quadrat gezeichnet wird.
