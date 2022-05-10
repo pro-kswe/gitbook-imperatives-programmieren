@@ -24,3 +24,4 @@
   * [🐢 Pyramide](aufgaben/aufgaben-2/pyramide.md)
   * [🐢 Hello World](aufgaben/aufgaben-2/hello-world.md)
   * [🐢 Dreieck](aufgaben/aufgaben-2/dreieck.md)
+  * [🐢 Rhombus](aufgaben/aufgaben-2/rhombus.md)
