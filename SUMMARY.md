@@ -19,4 +19,5 @@
 
 * [Aufgaben 1](aufgaben/aufgaben-1/README.md)
   * [Quadrat](aufgaben/aufgaben-1/quadrat.md)
-* [Aufgaben 2](aufgaben/aufgaben-2.md)
+* [Aufgaben 2](aufgaben/aufgaben-2/README.md)
+  * [Rechteck](aufgaben/aufgaben-2/rechteck.md)
