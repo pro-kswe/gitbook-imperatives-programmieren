@@ -14,3 +14,9 @@
   * [Turtle-Grundlagen](imperatives-programmieren/programmieren-mit-python/turtle-grundlagen.md)
 * [Zufall und Zufallszahlen](imperatives-programmieren/zufall-und-zufallszahlen.md)
 * [Syntax und Semantik](imperatives-programmieren/syntax-und-semantik.md)
+
+## Aufgaben
+
+* [Aufgaben 1](aufgaben/aufgaben-1/README.md)
+  * [Quadrat](aufgaben/aufgaben-1/quadrat.md)
+* [Aufgaben 2](aufgaben/aufgaben-2.md)
