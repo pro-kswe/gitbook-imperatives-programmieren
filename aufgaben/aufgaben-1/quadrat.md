@@ -8,9 +8,20 @@ Ihr erstes Python-Programm wird die Turtle dazu anweisen, ein Quadrat zu zeichne
 
 1. Erstellen Sie eine neue Python-Datei `quadrat.py`.
 2. Tippen Sie in die neu erstellte Python-Datei das folgende Programm ab.
+3. Führen Sie das Programm aus und prüfen Sie, ob ein Quadrat gezeichnet wird.
 
+{% code title="quadrat.py" %}
+```python
+import turtle
 
-
-
-
-Tippen Sie das \autoref{lst-quadrat} in eine \textbf{neue} Datei mit dem Namen \graybgtexttt{quadrat.py} ab und führen Sie das Programm aus. Wenn Sie das Programm ausführen, dann wird das Fenster aus \autoref{figure-quadrat} geöffnet und das Quadrat durch die \say{Turtle} (das kleine Dreieck) gezeichnet.
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.done()
+```
+{% endcode %}
